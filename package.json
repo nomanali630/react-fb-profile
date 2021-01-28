@@ -2,7 +2,7 @@
   "name": "hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nomanali630/react-fb-profile.git",
+  "homepage": " https://nomanali630.github.io/react-fb-profile",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
